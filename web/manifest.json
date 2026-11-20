@@ -1,0 +1,10 @@
+{
+  "name": "Balik Kampung Mode",
+  "short_name": "Balik Kampung",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#12233f",
+  "description": "Smart township home monitoring prototype",
+  "orientation": "portrait"
+}
